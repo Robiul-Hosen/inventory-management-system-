@@ -1,0 +1,14 @@
+.s01 {
+    min-height: 100vh;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-family: poppins, sans-serif;
+    background: url(../image/shutterstock_585073000-scaled.jpg);
+    background-size: cover;
+    background-position: center center;
+    padding: 15px
+}
